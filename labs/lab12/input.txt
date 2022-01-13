@@ -1,0 +1,4 @@
+person aruzhan aru bbb ccc aaaaa,
+aaa person banana apple 
+bbb ccc aaaaa aaa banana person;
+eda son  

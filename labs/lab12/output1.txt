@@ -1,0 +1,11 @@
+aaa=2
+banana=2
+aruzhan=1
+apple=1
+ccc=2
+bbb=2
+eda=1
+son=1
+aru=1
+aaaaa=2
+person=3
